@@ -171,7 +171,7 @@ function App(){
           }}>
           <Section title="Step One" color="orange" theme={theme}>
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
-            screen and then come back to see your edits 13.
+            screen and then come back to see your edits 14.
           </Section>
           <Section title="See Your Changes"  color="orange" theme={theme}>
             <ReloadInstructions />
